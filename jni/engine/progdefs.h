@@ -219,6 +219,7 @@ float		round_frags_grenade;
 float		round_frags_knife;
 float		round_frags_shotgun;
 float		round_frags_sniper;
+int	decryption;
 } entvars_t;
 
 #endif//PROGDEFS_H
